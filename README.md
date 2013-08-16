@@ -15,6 +15,17 @@ as well as download links to binaries, visit the page for this project
 on the book's website at:
 http://gamealgorithms.net/source-code/shipattack/.
 
+Sprites
+-------
+All the sprites were created by Jacob Zinman-Jeanes: http://gamedev.tutsplus.com/articles/news/enjoy-these-totally-free-space-based-shoot-em-up-sprites/
+(Used under the CC BY license).
+
+How to Play
+-----------
+Slide a finger along the left side of the screen to move the ship up and
+down. Hold a finger on the right hand side of the screen to fire. This
+works best using your left and right thumbs.
+
 Building
 --------
 The project can only be opened on a Mac with Xcode. I used 4.6.3, but it
