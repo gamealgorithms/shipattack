@@ -59,12 +59,6 @@
 		// add the label as a child to this Layer
 		[self addChild: label];
 		
-		
-		
-		//
-		// Leaderboards and Achievements
-		//
-		
 		// Default font size will be 28 points.
 		[CCMenuItemFont setFontSize:28];
 		
