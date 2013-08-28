@@ -38,7 +38,7 @@
 			CCSprite *background;
 			background = [CCSprite spriteWithSpriteFrame:[cache spriteFrameByName:[names objectAtIndex:i]]];
 			
-			background.position = ccp(m_WinSize.width/2 + m_WinSize.width * i,
+			background.position = ccp(m_WinSize.width/2 + m_WinSize.width * i - 1,
 									  m_WinSize.height/2);
 			
 			// Disable anti-aliasing
